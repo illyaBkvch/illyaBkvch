@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @illyaBkvch
+- 👋 Hi, I’m illya, Ternopil/Rivne (Ukraine).
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on with interesting people, that could help me with learning C++.
