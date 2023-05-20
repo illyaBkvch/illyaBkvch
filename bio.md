@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Illia, from Ukraine (Ternopil).
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on with interesting people, that could help me with learning.
+- 📫 How to reach me: email illiabukevych@gmail.com
